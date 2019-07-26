@@ -1,5 +1,5 @@
 # Eye Of Raja - RPDR Visual Lookup
-Data-wrangling and web-scraping for Eye of Raja visualization made on Tableau. 
+Web-scraping and data-wrangling necessary for "Eye of Raja - RuPaul's Drag Race Queen Lookup" visualization made on Tableau.
 
 https://public.tableau.com/profile/justin.pimentel#!/vizhome/DragRace_15637608397820/Individual
 
